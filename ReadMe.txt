@@ -1,0 +1,18 @@
+HALO 
+
+CARA RUN PANEL UPLOAD SC DULU HABIS ITU KE STARTUP
+NPM START GANTI NPM INSTALL 
+
+cara ganti foto pembayaran pake qr caranya kalian siapin duku foto qris kalian dengan nama qris.jpg lalu kalian salin trs tempel ke folder gambar klik lewati dan ganti 
+
+
+
+Seting Owner di basemods/database/owner.json
+Seting Buat Create Panel basemods/setting.json
+Rename Rename Menu Dll Ada Di appearance.js
+#BANTAI MARK😎
+
+BUY SCRIPT BOT BUG YG NO ENC CUMA 35K YO KALAU MAU NEGO/TAWAR JUGA BISA
+
+MINAT LANGSUNG HUBUNGGI HYKZ-XD
+( 6282193880692 )
