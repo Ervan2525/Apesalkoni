@@ -1,8 +1,8 @@
 require("./module")
 
-global.owner = "6287846482424"
-global.namabot = "HYKZ-BOTz"
-global.namaCreator = "HYKZ-XD"
+global.owner = "48459087057"
+global.namabot = "AsTäʀօ⸸h⁶⁶⁶"
+global.namaCreator = "AsTäʀօ⸸h⁶⁶⁶"
 global.autoJoin = false
 global.antilink = false
 global.codeInvite = "CswK4kvQD1u7SfSmsYfMHZ"
@@ -16,7 +16,7 @@ global.audionya = fs.readFileSync("./basemods/sound.mp3")
 global.tekspushkon = ""
 global.tekspushkonv2 = ""
 global.packname = ""
-global.author = "Sticker By Hykz-XD"
+global.author = "AsTäʀօ⸸h⁶⁶⁶"
 global.jumlah = "5"
 
 let file = require.resolve(__filename)
